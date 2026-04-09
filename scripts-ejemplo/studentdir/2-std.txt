@@ -1,0 +1,19 @@
+Makefile
+P2_SSOO_ESP_25_26.docx.pdf
+autores.txt
+example-scripts.zip
+mycalc.c
+mycalc.h
+mycalc.o
+mycp
+mycp.c
+mycp.o
+p2_uc3mshell.zip
+scripts-ejemplo
+uc3mshell
+uc3mshell.c
+uc3mshell.o
+3678
+0
+6295
+Goodbye 3
