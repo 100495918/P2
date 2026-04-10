@@ -1,8 +1,7 @@
 #include "mycalc.h"
 #include <string.h>
 #include <stdlib.h>
-#include <unistd.h> // ¡Vital para write, STDOUT_FILENO y STDERR_FILENO!
-#include <stdio.h>  // Para snprintf
+#include <unistd.h> 
 
 int mycalc(int argc, char **argv) {
   
