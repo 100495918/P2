@@ -1,8 +1,7 @@
 #include "mycalc.h"
 #include <string.h>
 #include <stdlib.h>
-#include <unistd.h>
-#include <stdio.h>
+#include <unistd.h> 
 
 int mycalc(int argc, char **argv) {
   
